@@ -1,0 +1,18 @@
+:host{
+    display: block;
+    width:80%;
+    margin:0 auto;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    padding: 10px;
+    box-shadow: 1px 2px 9px #ccc;
+    margin-bottom: 10px;
+}
+li li {
+    padding : 0px;
+    box-shadow: none;
+}
